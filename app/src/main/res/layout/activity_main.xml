@@ -30,6 +30,7 @@
         android:layout_height="wrap_content"
         android:layout_toEndOf="@+id/textValue1"
         android:layout_alignBottom="@+id/textValue1"
+        android:inputType="numberDecimal"
         android:id="@+id/editText1"/>
 
     <TextView
@@ -45,6 +46,7 @@
         android:layout_height="wrap_content"
         android:layout_toEndOf="@+id/textValue2"
         android:layout_alignBottom="@+id/textValue2"
+        android:inputType="numberDecimal"
         android:id="@+id/editText2"/>
 
     <TextView
